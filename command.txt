@@ -1,0 +1,10 @@
+  431  cd
+  432  mkdir githubconnecttossh
+  433  cd githubconnecttossh/
+  434  git git@github.com:omkarpatade1/learning-git.git
+  435  git clone git@github.com:omkarpatade1/learning-git.git
+  436  ls -a
+  437  cd learning-git/
+  438  ls -a
+  439  history 10
+  440  history 10 > command.txt
